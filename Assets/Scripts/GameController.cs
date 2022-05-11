@@ -36,7 +36,6 @@ public class GameController : MonoBehaviour
             m_spawnTime = spawnTime; // gan lai thoi gian ban dau
 
         }
-        
     }
 
     public void SpawnBall()
